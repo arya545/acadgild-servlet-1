@@ -1,0 +1,11 @@
+doGet
+------
+The GET method sends the encoded user information appended to the page request.
+The GET method is the defualt method to pass information from browser to web server.
+
+
+doPost
+-----
+More reliable method of passing information to a backend program is the POST method. 
+This packages the information as a separate message.
+This message comes to the backend program in the form of the standard input which you can parse and use for your processing. 
